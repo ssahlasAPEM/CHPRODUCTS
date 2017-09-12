@@ -1,3 +1,2 @@
 # CHPRODUCTS
-Old CH Products Web Site
-This is about me
+I have no idea what I'm doing yet!
