@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /template/
+Disallow: /extranet/
+Disallow: /11-
+Disallow: /17-
+Disallow: /18-
