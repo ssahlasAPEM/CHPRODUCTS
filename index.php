@@ -1,1 +1,1 @@
-<?php header("Location: https://www.chproducts.com/home.php"); ?>
+<?php include_once("13-28464-Home.php.html"); ?>
