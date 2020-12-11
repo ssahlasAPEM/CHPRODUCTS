@@ -1,1 +1,1 @@
-<?php header("Location: http://www.chproducts.com/home.php"); ?>
+<?php header("Location: https://www.chproducts.com/home.php"); ?>
