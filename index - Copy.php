@@ -1,0 +1,1 @@
+<?php header("Location: https://www.chproducts.com/home.php"); ?>
